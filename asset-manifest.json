@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vidsssw/Demo.git/static/css/main.512d7d39.chunk.css",
+    "main.js": "/vidsssw/Demo.git/static/js/main.127d8849.chunk.js",
+    "main.js.map": "/vidsssw/Demo.git/static/js/main.127d8849.chunk.js.map",
+    "runtime-main.js": "/vidsssw/Demo.git/static/js/runtime-main.cd6b286d.js",
+    "runtime-main.js.map": "/vidsssw/Demo.git/static/js/runtime-main.cd6b286d.js.map",
+    "static/css/2.158db383.chunk.css": "/vidsssw/Demo.git/static/css/2.158db383.chunk.css",
+    "static/js/2.98d8a06c.chunk.js": "/vidsssw/Demo.git/static/js/2.98d8a06c.chunk.js",
+    "static/js/2.98d8a06c.chunk.js.map": "/vidsssw/Demo.git/static/js/2.98d8a06c.chunk.js.map",
+    "index.html": "/vidsssw/Demo.git/index.html",
+    "precache-manifest.497ee608fd8bae1306f5d0ab4e388384.js": "/vidsssw/Demo.git/precache-manifest.497ee608fd8bae1306f5d0ab4e388384.js",
+    "service-worker.js": "/vidsssw/Demo.git/service-worker.js",
+    "static/css/2.158db383.chunk.css.map": "/vidsssw/Demo.git/static/css/2.158db383.chunk.css.map",
+    "static/css/main.512d7d39.chunk.css.map": "/vidsssw/Demo.git/static/css/main.512d7d39.chunk.css.map",
+    "static/js/2.98d8a06c.chunk.js.LICENSE.txt": "/vidsssw/Demo.git/static/js/2.98d8a06c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vidsssw/Demo.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd6b286d.js",
+    "static/css/2.158db383.chunk.css",
+    "static/js/2.98d8a06c.chunk.js",
+    "static/css/main.512d7d39.chunk.css",
+    "static/js/main.127d8849.chunk.js"
+  ]
+}
