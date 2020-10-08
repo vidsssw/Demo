@@ -1,0 +1,14 @@
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import MyEditor from "./MyEditor";
+import Container from "./Container";
+function App() {
+  return (
+    <div className="App">
+      <Container />
+    </div>
+  );
+}
+
+export default App;
